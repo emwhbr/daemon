@@ -45,7 +45,7 @@ typedef enum {THREAD_STATE_NOT_STARTED = 10,
 #define THREAD_STATUS_SETUP_FAILED    1
 #define THREAD_STATUS_EXECUTE_FAILED  2
 #define THREAD_STATUS_CLEANUP_FAILED  4
-#define THREAD_STATUS_DONE_FAILED     5
+#define THREAD_STATUS_DONE_FAILED     8
 
 /////////////////////////////////////////////////////////////////////////////
 //               Definition of classes

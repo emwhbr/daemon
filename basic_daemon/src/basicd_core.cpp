@@ -29,7 +29,7 @@
 //               Definition of macros
 /////////////////////////////////////////////////////////////////////////////
 #define PRODUCT_NUMBER   "BASICD"
-#define RSTATE           "R1A01"
+#define RSTATE           "R1A02"
 
 #ifndef BASICD_CFG_FILE
 #define CFG_FILE "/tmp/"BASICD_NAME".cfg"

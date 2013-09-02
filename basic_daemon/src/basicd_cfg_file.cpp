@@ -26,7 +26,7 @@
 #define WORKER_THREAD_FREQ "worker_thread_freq"
 
 // Default configuration values
-#define DEF_DAEMONIZE           "true"
+#define DEF_DAEMONIZE           true
 #define DEF_USER                "root"
 #define DEF_WORK_DIR            "/"
 #define DEF_LOCK_FILE           "/var/run/"BASICD_NAME".pid"
